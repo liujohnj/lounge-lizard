@@ -1,0 +1,3 @@
+GET https://slack.com/api/conversations.list?limit=50&token=xoxb-abc-123456
+curl "https://slack.com/api/conversations.list?token=xoxb-abc-123456"
+channels.archive
